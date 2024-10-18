@@ -1,3 +1,4 @@
+// american-to-british-titles.js
 module.exports = {
   'mr.': 'mr',
   'mrs.': 'mrs',
@@ -5,4 +6,4 @@ module.exports = {
   'mx.': 'mx',
   'dr.': 'dr',
   'prof.': 'prof'
-}
+};

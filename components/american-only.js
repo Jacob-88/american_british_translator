@@ -181,5 +181,6 @@ module.exports = {
   "yellow light": "amber",
   "zip code": "postcode",
   "zipper": "zip",
-  "zucchini": "courgette"
+  "zucchini": "courgette",
+  "high tech rube goldberg machine": "Heath Robinson device"
 }
